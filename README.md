@@ -4,8 +4,7 @@ cd Backend_Task
 php artisan serve
  
  ## DATABASE 
- NAME : backend_task_db
- php artisan migrate
+ NAME : backend_task_db                                                                                                                                                 php artisan migrate
  
  ## Employee 
  /employy
