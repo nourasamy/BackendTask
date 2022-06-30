@@ -7,7 +7,7 @@ cd Backend_Task
   NAME : backend_task_db                                                                                                                                                   php artisan migrate
  
  ## Employee 
- /employy
+ /employee
  
  ## Company
  /company
