@@ -1,4 +1,3 @@
-## About Laravel
 ## Laravel installation using CLI
 composer create-project laravel/laravel Backend_Task
 cd Backend_Task
